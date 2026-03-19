@@ -8,9 +8,11 @@
 
 ---
 
+![Dizajn bez názvu(1)](https://github.com/user-attachments/assets/5c2d90a7-7912-4705-b601-5fecb130c142)
+
 ## 🚀 Live Demo
 
-**[qa-risk-analyzer-demo.vercel.app]**
+**[[qa-risk-analyzer-demo.vercel.app](https://qa-risk-analyzer.vercel.app/)]**
 
 No sign-up required. Paste any PR, ticket, or change description and get instant QA analysis.
 
