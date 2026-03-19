@@ -10,9 +10,19 @@
 
 ## 🚀 Live Demo
 
-**[qa-risk-analyzer-demo.vercel.app](https://d-c0863xd5w-samuel-dobrancin-qas-projects.vercel.app/)**
+**[qa-risk-analyzer-demo.vercel.app]**
 
 No sign-up required. Paste any PR, ticket, or change description and get instant QA analysis.
+
+---
+
+## 💡 Why I Built This
+
+I've spent 4+ years as a QA engineer watching the same problem repeat itself: PRs come in, QA teams spend 20–30 minutes manually figuring out what to test, writing test cases from scratch, and deciding what regression to run.
+
+The knowledge to do this well exists — it's just locked inside experienced QA engineers' heads. This tool is an attempt to make that knowledge available instantly, for any team, on any workflow.
+
+It's also a demonstration that AI doesn't replace QA engineers. It amplifies them.
 
 ---
 
@@ -85,12 +95,11 @@ See [SECURITY.md](SECURITY.md) for full details.
 
 ## 🖥️ Screenshots
 
-> *Add 2–3 screenshots here after your first demo run*
->
-> Suggested shots:
-> - The workflow selector with GitHub PR selected
-> - A completed risk assessment with score ring
-> - The transparency panel showing secret scrubbing in action
+<img width="762" height="730" alt="Snímka obrazovky 2026-03-19 o 21 11 52" src="https://github.com/user-attachments/assets/36922b25-435a-481f-be59-b17e658468ca" />
+<img width="762" height="730" alt="Snímka obrazovky 2026-03-19 o 21 12 08" src="https://github.com/user-attachments/assets/1ee00a17-2c64-45a9-a7a0-4ca84e4dc0ab" />
+<img width="762" height="730" alt="Snímka obrazovky 2026-03-19 o 21 13 16" src="https://github.com/user-attachments/assets/b7ae00e3-de06-43ce-a6d1-29d40467b29a" />
+<img width="762" height="730" alt="Snímka obrazovky 2026-03-19 o 21 13 39" src="https://github.com/user-attachments/assets/2c3233fa-90fe-47d4-aaec-7ea86ea04007" />
+<img width="762" height="730" alt="Snímka obrazovky 2026-03-19 o 21 13 58" src="https://github.com/user-attachments/assets/9873422e-ee66-4f71-b747-993d07f3d9fa" />
 
 ---
 
@@ -135,16 +144,6 @@ Open [http://localhost:5173](http://localhost:5173)
 1. Click the button above
 2. Add `ANTHROPIC_API_KEY` in Vercel environment variables
 3. Deploy
-
----
-
-## 💡 Why I Built This
-
-I've spent 4+ years as a QA engineer watching the same problem repeat itself: PRs come in, QA teams spend 20–30 minutes manually figuring out what to test, writing test cases from scratch, and deciding what regression to run.
-
-The knowledge to do this well exists — it's just locked inside experienced QA engineers' heads. This tool is an attempt to make that knowledge available instantly, for any team, on any workflow.
-
-It's also a demonstration that AI doesn't replace QA engineers. It amplifies them.
 
 ---
 
