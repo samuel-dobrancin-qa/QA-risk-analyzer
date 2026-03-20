@@ -12,7 +12,7 @@
 
 ## 🚀 Live Demo
 
-**[[qa-risk-analyzer-demo.vercel.app](https://qa-risk-analyzer.vercel.app/)]**
+****[qa-risk-analyzer.vercel.app](https://qa-risk-analyzer.vercel.app/)****
 
 No sign-up required. Paste any PR, ticket, or change description and get instant QA analysis.
 
